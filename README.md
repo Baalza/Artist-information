@@ -4,8 +4,7 @@
 Il progetto richiede la creazione di un’interfaccia grafica per la visualizzazione degli artisti di due delle più prestigiose etichette discografiche mondiali. 
 
 Nello specifico si richiede che:
-1. Vengano scaricati automaticamente i file relativi a due etichette dai
-seguenti link:
+1. Vengano scaricati automaticamente i file relativi a due etichette dai seguenti link:
 a. Universal (http://www.ivl.disco.unimib.it/minisites/cpp/List_of_Universal_artists.txt)
 b. EMI (http://www.ivl.disco.unimib.it/minisites/cpp/List_of_EMI_artists.txt)
 2. Vengano creati e visualizzati automaticamente i due elenchi contenenti
